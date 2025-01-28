@@ -10,7 +10,7 @@ Currently Working on:
 - A rewrite of a RSS Feeder I made in 2019 to centralize the articles interactive media news sites that I usually read.
 - A Pomodoro timer built on web-
 
-To reach me, send me a message on my (Linkedin)[https://www.linkedin.com/in/andrew-ohakam/]!
+To reach me, send me a message on my [Linkedin](https://www.linkedin.com/in/andrew-ohakam/)!
 <!--
 **andlas98/andlas98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
