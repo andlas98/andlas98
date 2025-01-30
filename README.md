@@ -12,7 +12,7 @@ Currently Working on:
 
 To reach me, send me a message on my [Linkedin](https://www.linkedin.com/in/andrew-ohakam/)!
 
-![User Stats](https://github-readme-stats.vercel.app/api?username=andlas98&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+<!--![User Stats](https://github-readme-stats.vercel.app/api?username=andlas98&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andlas98&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 <!--
