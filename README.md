@@ -8,7 +8,7 @@ I love working with:
 
 Currently Working on:
 - A rewrite of a RSS Feeder I made in 2019 to centralize the articles interactive media news sites that I usually read.
-- A Pomodoro timer built on web-
+- A minimalistic, and sleek Pomodoro timer built on Typescript, GSAP, and Electron.
 
 To reach me, send me a message on my [Linkedin](https://www.linkedin.com/in/andrew-ohakam/)!
 
