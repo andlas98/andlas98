@@ -7,7 +7,6 @@ I am a frontend engineer building web-based tools. Some are meant for personal u
 - _Anything_ that simplifies web element styling (Tailwind, GSAP)
 
 🔭 Currently Working on:
-- A rewrite of a RSS Feeder I made in 2019 to centralize the articles of interactive media news sites that I usually read.
 - A minimalistic and sleek Pomodoro timer built on Typescript, GSAP, and Electron.
 
 To reach me, send me a message on my [Linkedin](https://www.linkedin.com/in/andrew-ohakam/)!
